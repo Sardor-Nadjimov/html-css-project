@@ -6,4 +6,11 @@ body {
 h1 {
     color: darkblue;
     text-align: center;
+    font-size: 36px;
 } 
+
+p {
+    color: darkgreen;
+    font-size: 20px;
+    text-align: center;
+}
